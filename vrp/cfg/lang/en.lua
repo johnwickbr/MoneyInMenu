@@ -132,7 +132,7 @@ local lang = {
     },
     menu = {
       title = "Identity",
-      info = "<em>First name: </em>{2}<br /><em>Last name: </em>{1}<br /><em>Age: </em>{3}<br /><em>Registration n°: </em>{4}<br /><em>Phone: </em>{5}<br /><em>Money(Wallet): </em>{6}<br /><em>money(Bank): </em>{7}<br /><em>Address: </em>{9} {8}"
+      info = "<em>First name: </em>{2}<br /><em>Last name: </em>{1}<br /><em>Age: </em>{3}<br /><em>Registration n°: </em>{4}<br /><em>Phone: </em>{5}<br /><em>Money(Wallet): </em>{8}<br /><em>money(Bank): </em>{9}<br /><em>Address: </em>{7} {6}"
     }
   },
   police = {
