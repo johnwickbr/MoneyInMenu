@@ -279,7 +279,7 @@ vRP.registerMenuBuilder("main", function(add, data)
             number = address.number
           end
       
-          local content = lang.cityhall.menu.info({htmlEntities.encode(identity.name),htmlEntities.encode(identity.firstname),identity.age,identity.registration,identity.phone,home,number,walletamount,bankamount,user_id})
+          local content = lang.cityhall.menu.info({htmlEntities.encode(identity.name),htmlEntities.encode(identity.firstname),identity.age,identity.registration,identity.phone,home,number,walletamount,bankamount})
           local choices = {}
           choices[lang.cityhall.menu.title()] = {function()end, content}
 
