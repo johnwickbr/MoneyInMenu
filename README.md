@@ -1,4 +1,4 @@
-# Money In Menu by oMarkez <3 (Thank you Thaisen/Thaisen69 for your help <3)
+# Money In Menu by oMarkez <3 (Thank you Thaisen/Thaisen69 for your help, and thank you Mohammed_XmFK for testing and helping with it <3)
 
 This allowx you to show your money in your menu under Identity instead of in the top right corner as shown in the following screenshots.
 
